@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="Inzynierka:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Inzynierka_jar</output-path>
+    <root id="archive" name="Inzynierka.jar">
+      <element id="module-output" name="Inzynierka" />
+      <element id="extracted-dir" path="$USER_HOME$/ij-1.51n.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

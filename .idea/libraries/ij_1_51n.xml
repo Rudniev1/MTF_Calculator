@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="ij-1.51n">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/ij-1.51n.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/ij-1.51n-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
